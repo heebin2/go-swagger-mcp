@@ -1,2 +1,1 @@
-# go-swagger-mcp
-golang swagger mcp server
+### go-swagger-mcp
